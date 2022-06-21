@@ -1,2 +1,2 @@
 # Website_CV
-Something about me and my work experience. I tried to learn HTML and CSS better.
+A little about me and my work experience. I've been trying to improve my HTML and CSS skills.
